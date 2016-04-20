@@ -1,0 +1,12 @@
+textarea {
+  display:inline-block;
+  vertical-align:middle;
+
+}
+
+table {
+    border: 10px;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+}
